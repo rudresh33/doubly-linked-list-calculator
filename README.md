@@ -39,5 +39,3 @@ The implementation of a calculator using a doubly linked list represents a signi
 - Prevents crashes or undefined results.  
 
 ---
-
-## Project Structure
